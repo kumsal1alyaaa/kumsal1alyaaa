@@ -14,23 +14,96 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Image -->
+<p align="center">
+	<img src="https://i.imgur.com/plp3lJu.jpg" width="650px" height="300px">
+</p>
 
+<!-- Tags - 1 -->
+<p align = "center">
+  <a href = "https://github.com/IoT-Buzz/IoT/issues">
+    <img src = "https://img.shields.io/github/issues/jaykali/maskphish.svg" />
+  </a>
+  <a href = "https://github.com/IoT-Buzz/IoT/issues?q=is%3Aissue+is%3Aclosed">
+    <img src = "https://img.shields.io/github/issues-closed/jaykali/maskphish.svg" />
+  </a>
+  <a href = "https://github.com/IoT-Buzz/IoT/pulls">
+    <img src = "https://img.shields.io/github/issues-pr/jaykali/maskphish.svg" />
+  </a>
+  <a href = "https://github.com/IoT-Buzz/IoT/pulls?q=is%3Apr+is%3Aclosed">
+    <img src = "https://img.shields.io/github/issues-pr-closed/jaykali/maskphish.svg" />
+  </a>
+  <a href = "">
+    <img src = "https://img.shields.io/github/repo-size/jaykali/maskphish?color=yellow" />
+  </a>
+  <a href = "">
+    <img src = "https://img.shields.io/tokei/lines/github/jaykali/maskphish?color=red&label=Lines%20of%20Code" />
+  </a>
+</p>
 
-Copyright © 2001-2022 Python Software Foundation.  All rights reserved.
+<!-- Tags - 2 -->
+<p align = "center">
+  <a href = "https://github.com/jaykali/maskphish/releases/tag/2.0">
+      <img src = "https://img.shields.io/badge/MaskPhish-2.0-green" />	  
+  </a>
+  <a href = "https://twitter.com/KaliLinux_in">
+      <img src = "https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40KaliLinux_in" />
+  </a>
+</p>
 
-Copyright © 2000 BeOpen.com.  All rights reserved.
+<!-- Author -->
+<p align = "center">
+     <h3 align = "center"> 👨‍💻️ Author : <a href = "https://github.com/jaykali"> jaykali </a> </h3>
+</p>
 
-Copyright © 1995-2001 Corporation for National Research Initiatives.  All
-rights reserved.
+<br />
 
-Copyright © 1991-1995 Stichting Mathematisch Centrum.  All rights reserved.
+## 🔥 MaskPhish
+MaskPhish is not any Phishing tool. It's just a proof of concept of "URL Making Technology". It is a simple Bash Script to hide phishing URL under a normal looking URL (google.com or facebook.com). It can be integrated into Phishing tools (with proper credits) to look the URL ledgit.
 
-See the `LICENSE <https://github.com/python/cpython/blob/main/LICENSE>`_ for
-information on the history of this software, terms & conditions for usage, and a
-DISCLAIMER OF ALL WARRANTIES.
+<br />
 
-This Python distribution contains *no* GNU General Public License (GPL) code,
-so it may be used in proprietary projects.  There are interfaces to some GNU
-code but these are entirely optional.
+## ⚖️ Legal Disclaimer:
+**FOR EDUCATIONAL PURPOSES ONLY** <br />
+Usage of MaskPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Use Responsibly!
 
-All trademarks referenced herein are property of their respective holders.
+<br />
+
+## Common Issue
+Sometimes Masked link is not generating properly. In that case we need to use VPN/proxy, then use maskphish to generate masked link.
+
+## 💻 Installation 
+
+```bash
+# Clone the repository 
+git clone https://github.com/jaykali/maskphish
+
+# Enter into the directory
+cd maskphish
+
+# Run the script
+bash maskphish.sh
+```
+
+<br />
+
+- *Tested on Kali Linux, Termux & Ubuntu* <br />
+- Detailed Article can be found [here](https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html)
+- Want to discuss something? Start discussions [click here](https://github.com/jaykali/maskphish/discussions/new)
+
+<br />
+
+## 🖼️ Screenshot
+<p align="">
+	<img src="https://i.imgur.com/1JsWv4I.png" width="600px">
+</p>
+
+<br />
+
+## ❤️ Contributors:
+You can propose a feature request opening an issue or a pull request.
+Here is a list of MaskPhish contributors:
+
+<a href="https://github.com/jaykali/maskphish/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=jaykali/maskphish" />
+</a>
